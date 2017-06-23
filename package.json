@@ -1,0 +1,21 @@
+{
+  "name": "followBot",
+  "version": "1.0.0",
+  "description": "Reply when followed on Twitter",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "follow",
+    "reply"
+    ],
+  "author": "robmcc1",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
